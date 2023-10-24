@@ -1,0 +1,23 @@
+version: "3.9"
+services:
+  flying:
+    build: ./web
+    container_name: flying
+    expose:
+      - 5000
+    volumes:
+      - ${PWD}/README.md:/code/README.md
+    env_file:
+      - ./.env.prod
+    command: gunicorn --bind 0.0.0.0:5000 manage:app --timeout 120
+
+  nginx:
+    image: nginx:latest
+    container_name: nginx
+    restart: unless-stopped
+    ports:
+      - "1337:80"
+    volumes:
+      - ./nginx-conf:/etc/nginx/conf.d
+    depends_on:
+      - flying

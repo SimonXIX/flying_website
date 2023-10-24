@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  flying:
+    build: ./web
+    container_name: flying
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./web:/code
+      - ${PWD}/README.md:/code/app/content/about.md
+    env_file:
+      - ./.env.dev

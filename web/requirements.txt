@@ -1,0 +1,5 @@
+flask
+flask-moment
+requests
+gunicorn
+markdown
