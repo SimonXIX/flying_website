@@ -10,7 +10,7 @@
 */
 
 body {
-  font-family: 'Poppins', sans-serif !important;
+  font-family: 'Nunito', sans-serif !important;
   min-height: 400px;
   clear: both;
 }
@@ -21,4 +21,19 @@ main > .container {
 
 .footer {
   display: block;
+}
+
+#thoughts {
+  font-size: 2.5vw;
+  margin-top: 4vw;
+  margin-bottom: 6vw;
+}
+
+#thoughts p {
+  max-width: 50%;
+}
+
+#thoughts p:nth-child(even) {
+  margin-top: 12vw;
+  margin-bottom: 8vw;
 }

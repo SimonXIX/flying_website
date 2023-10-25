@@ -23,7 +23,10 @@ moment.init_app(app)
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    with open('app/content/thoughts.md', 'r') as f:
+        text = f.read()
+        html = markdown.markdown(text)
+    return render_template('index.html', html=html)
 
 @app.route('/what')
 def what():
