@@ -6,4 +6,4 @@ This website is a resource constructed as part of my cognitive behavioural thera
 
 The site is structured around a series of alternative thoughts, affirmations, and helpful phrases as well as a multimedia guide to the various sounds experienced on a commercial airliner. 
 
-Please note that this resource is designed to help me specifically and may not offer the same benefits to others. CBT is an individualised talking therapy where outputs are geared towards the thought patterns of a particular individual and so they may not offer the same benefits to other people.
+Please note that this resource is designed to help me specifically and may not offer the same benefits to others. CBT is an individualised talking therapy where outputs are geared towards the cognitive and emotional patterns of a particular individual and so they may not offer the same benefits to other people.
