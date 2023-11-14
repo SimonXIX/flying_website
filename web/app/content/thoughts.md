@@ -2,6 +2,22 @@ I can do this.
 
 I am prepared for this and able to handle this.
 
+Anything that happens is a step forward.
+
+My goals align with getting on this flight.
+
+Feel your feelings. Even your anxiety.
+
+You can't rationalise your feelings if you don't acknowledge how it feels. 
+
+Be reflective, realistic, and let yourself feel it.
+
+It's like driving: you have the skills now. Don't be put off by a stall.
+
+This is something you can get better at.
+
+Focus on what you want to do when you get to your destination.
+
 I want to get on a plane so I can travel more.
 
 I want to get on a plane to travel with my partner.
@@ -14,7 +30,9 @@ Flying is boring and travel is tedious and it's OK to feel anxious about it.
 
 It's OK to be a nervous flyer.
 
-Anxiety will hit like a wave and that's OK. 
+Feel the fear and do it anyway.
+
+Anxiety will hit like a wave and that's OK. You're learning to surf it.
 
 All discomfort is only temporary.
 
